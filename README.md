@@ -1,7 +1,5 @@
 # NeRF simplified
 
-#### Code from the course [Introduction to NeRF, volumetric rendering, and 3D reconstruction](https://www.udemy.com/course/neural-radiance-fields-nerf/?referralCode=DD33817D57404AF048DF).
-
 ## Usage
 
 **Dataset:** [Download the training and testing datasets](https://drive.google.com/drive/folders/18bwm-RiHETRCS5yD9G00seFIcrJHIvD-?usp=sharing).
